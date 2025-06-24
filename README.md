@@ -9,5 +9,8 @@ What's more, the development environment is based on [PrismLaucher](https://pris
 
 ## Usage
 1. Click `Use this template` to create a new repository.
-2. Clone the repository to your local instance folder.
-3. Launch the game in PrismLauncher.
+2. Create a empty folder in `instances` folder.
+3. Clone the repository to the new folder.
+4. Open the launcher and check the game.
+
+* Then you can begin to develop your own modpack! *
