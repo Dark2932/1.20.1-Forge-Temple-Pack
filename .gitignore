@@ -1,0 +1,11 @@
+/*
+
+#folders
+!minecraft/
+minecraft/*
+
+#files
+!.gitignore
+!.github
+!LICENSE
+!README.md
