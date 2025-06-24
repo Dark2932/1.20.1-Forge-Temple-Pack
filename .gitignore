@@ -1,11 +1,13 @@
 /*
 
 #folders
+!.github/
 !minecraft/
 minecraft/*
 
 #files
 !.gitignore
-!.github
+!instance.cfg
 !LICENSE
+!mmc-pack.json
 !README.md
