@@ -13,4 +13,4 @@ What's more, the development environment is based on [PrismLaucher](https://pris
 3. Clone the repository to the new folder.
 4. Open the launcher and check the game.
 
-* Then you can begin to develop your own modpack! *
+**Then you can begin to develop your own modpack!**
