@@ -196,3 +196,6 @@ key.mp.call_de
 key.mp.clear_de
 key.carry.desc
 key.control
+chloride.zoom
+key.modernui.openCenter
+key.modernui.zoom
