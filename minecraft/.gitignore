@@ -10,3 +10,4 @@ mods/*
 #files
 !.gitignore
 !knownkeys.txt
+!options.txt
