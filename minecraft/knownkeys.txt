@@ -199,3 +199,4 @@ key.control
 chloride.zoom
 key.modernui.openCenter
 key.modernui.zoom
+gui.xaero_pac_key_open_menu
