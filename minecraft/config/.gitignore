@@ -7,10 +7,12 @@
 !openloader/
 !pickupnotifier/
 !defaultoptions/
+!inventoryprofilesnext/
+inventoryprofilesnext/*
 
 #files
 !.gitignore
-!inventoryprofilesnext/inventoryprofiles.json 
+!inventoryprofilesnext/inventoryprofiles.json
 !jei/*.ini
 !chat_tools.json
 !chloride-client.json
