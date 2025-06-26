@@ -4,7 +4,7 @@
   "fpsDisplayMode": "SIMPLE",
   "fpsDisplayAlign": "RIGHT",
   "fpsDisplayVAlign": "TOP",
-  "fpsDisplaySystemMode": "ALL",
+  "fpsDisplaySystemMode": "RAM_ONLY",
   "fpsDisplayMargin": 4,
   "fpsDisplayVMargin": 4,
   "fpsDisplayShadow": false,
