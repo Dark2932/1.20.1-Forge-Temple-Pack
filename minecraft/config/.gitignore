@@ -14,6 +14,7 @@ inventoryprofilesnext/*
 !.gitignore
 !inventoryprofilesnext/inventoryprofiles.json
 !jei/*.ini
+!betterfpsdist.json
 !chat_tools.json
 !chloride-client.json
 !cull-less-leaves.json
