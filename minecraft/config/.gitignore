@@ -24,6 +24,7 @@ inventoryprofilesnext/*
 !jecharacters.toml
 !jeiintegration-client.toml
 !lithium.properties
+!oculus.properties
 !particular-common.toml
 !smoothswapping.json
 !sodium*.*
