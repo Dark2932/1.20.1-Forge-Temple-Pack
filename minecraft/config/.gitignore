@@ -1,4 +1,8 @@
 #folders
+!inventoryprofilesnext/
+inventoryprofilesnext/*
+!jei/
+jei/*
 !defaultoptions/
 !incontrol/
 !InventoryHUD/
@@ -7,8 +11,6 @@
 !openloader/
 !pickupnotifier/
 !defaultoptions/
-!inventoryprofilesnext/
-inventoryprofilesnext/*
 
 #files
 !.gitignore
