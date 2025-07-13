@@ -27,6 +27,7 @@ jei/*
 !jecharacters.toml
 !jeiintegration-client.toml
 !lithium.properties
+!minieffects-client.yaml
 !oculus.properties
 !particular-common.toml
 !smoothswapping.json
