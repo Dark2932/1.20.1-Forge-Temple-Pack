@@ -21,6 +21,7 @@ jei/*
 !chloride-client.json
 !cull-less-leaves.json
 !embeddium*.*
+!fastbench.cfg
 !immediatelyfast.json
 !immersiveui.yaml
 !inventoryhud-client.toml
@@ -30,7 +31,6 @@ jei/*
 !lsp.json
 !minieffects-client.yaml
 !oculus.properties
-!particular-common.toml
-!smoothswapping.json
 !sodium*.*
+!toastcontrol-common.toml
 !xaero*.*

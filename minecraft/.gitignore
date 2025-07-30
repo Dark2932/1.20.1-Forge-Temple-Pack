@@ -1,10 +1,9 @@
 #folders
 !config/
 config/*
-!kubejs/
-kubejs/*
 !mods/
 mods/*
+!kubejs/
 !patchouli_books/
 
 #files
