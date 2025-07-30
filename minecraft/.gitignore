@@ -3,6 +3,7 @@
 config/*
 !mods/
 mods/*
+!defaultconfigs/
 !kubejs/
 !patchouli_books/
 

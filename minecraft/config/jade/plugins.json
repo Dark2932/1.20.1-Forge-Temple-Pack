@@ -51,30 +51,6 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "treechop": {
-    "plugin": true,
-    "show_tree_block_counts": true,
-    "show_num_chops_remaining": true
-  },
-  "exposure": {
-    "lightroom": true,
-    "photograph_frame": true
-  },
-  "maid_storage_manager": {
-    "virtual_frame": true
-  },
-  "touhou_little_maid": {
-    "maid": true,
-    "shrine_lamp": true
-  },
-  "delightful": {
-    "crop_progress": true,
-    "pie_icons": true,
-    "mushroom_colony": true
-  },
-  "supplementaries": {
-    "hat_stand": true
-  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -85,22 +61,5 @@
   },
   "balm": {
     "jade": true
-  },
-  "integrateddynamicscompat": {
-    "proxy": true,
-    "mechanical_squeezer": true,
-    "mechanical_drying_basin": true,
-    "drying_basin": true,
-    "part": true,
-    "squeezer": true
-  },
-  "barbequesdelight": {
-    "grill": true
-  },
-  "storagedrawers": {
-    "display.stacklimit": true,
-    "main": true,
-    "display.content": true,
-    "display.status": true
   }
 }
