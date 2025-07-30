@@ -8,7 +8,7 @@ jei/*
 !InventoryHUD/
 !jade/
 !ModernUI/
-!openloader/
+!paxi/
 !pickupnotifier/
 !defaultoptions/
 
@@ -22,6 +22,7 @@ jei/*
 !cull-less-leaves.json
 !embeddium*.*
 !fastbench.cfg
+!forgematica.json
 !immediatelyfast.json
 !immersiveui.yaml
 !inventoryhud-client.toml
@@ -33,4 +34,5 @@ jei/*
 !oculus.properties
 !sodium*.*
 !toastcontrol-common.toml
+!tweakerge.json
 !xaero*.*
